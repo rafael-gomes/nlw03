@@ -40,3 +40,7 @@
 # macOS
 /mobile/.DS_Store
 
+
+## BACKEND ##
+/backend/node_modules
+
